@@ -31,4 +31,4 @@ If you want to detect the faces in a videostream in real-time, then you should t
  prediction.
  
  The result:
- ![image](https://github.com/alisyedraza99/Real-Time_Face-Recognition-System/edit/master/CAPTURE.png)
+ ![image](https://github.com/alisyedraza99/Real-Time_Face-Recognition-System/edit/master/Capture.PNG)

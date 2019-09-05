@@ -28,4 +28,7 @@ If you want to detect the faces in a videostream in real-time, then you should t
  ### Bonus: Make It Real-Time
  Take a look at [this script](https://github.com/alisyedraza99/Real-Time_Face-Recognition-System/edit/master/src/real_time_face_rec.py). I 
  used Haarcascade to detect faces from each frame, you can however use MTCNN again. I pass the face detected through our models to make a 
- prediction
+ prediction.
+ 
+ The result:
+ ![image](https://github.com/alisyedraza99/Real-Time_Face-Recognition-System/edit/master/CAPTURE.png)
